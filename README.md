@@ -1,6 +1,8 @@
 ShaderDSL.js
 ============
 
+[![Join the chat at https://gitter.im/kpalacz/shaderdsl](https://badges.gitter.im/kpalacz/shaderdsl.svg)](https://gitter.im/kpalacz/shaderdsl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 A compiler from a subset of JavaScript to GLSL.
 
